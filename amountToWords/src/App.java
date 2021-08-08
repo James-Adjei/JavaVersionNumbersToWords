@@ -6,7 +6,7 @@ public class App {
        
        
        long tval=998L;
-       String results = Trillion.TranslateToWords(tval,"$");
+       String results = Trillion.TranslateToWords(tval,"ghc");
        
         System.out.println(results);
     }

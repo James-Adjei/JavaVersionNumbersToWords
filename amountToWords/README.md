@@ -1,4 +1,4 @@
-author: James Adjei
+
 
 This project is a java based project and what it intend doing is to convert or translate numbers to a very comprehensive English word.
 **Example**
