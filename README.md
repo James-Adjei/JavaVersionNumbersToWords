@@ -4,8 +4,8 @@ This project is a java based project and what it intend doing is to convert or t
 
 
  **INPUT:**
-      1.`long number=998L;`
- ` Trillion.TranslateToWords(number,"pwr");`
+      1.`long number=998L;
+ Trillion.TranslateToWords(number,"pwr");`
 
  **OUTPUT:**  "nine hundred and ninety-eight kilo-Watts hour, (998.00 kWh)"
 
