@@ -4,16 +4,18 @@ This project is a java based project and what it intend doing is to convert or t
 **Example**
 
 
- **INPUT:**
-      1.`long number=998L;`
+ 1. **INPUT:**
+     
+      `long number=998L;`
+      
  ` Trillion.TranslateToWords(number,"pwr");`
 
  **OUTPUT:**  "nine hundred and ninety-eight kilo-Watts hour, (998.00 kWh)"
 
 
-**INPUT:** 
+2.  **INPUT:** 
   
-2. `Trillion.TranslateToWords(number,"$");` 
+`Trillion.TranslateToWords(number,"$");` 
 **OUTPUT:**  "nine hundred and ninety-eight US Dollars, (US$ 998.00)"
 
 
